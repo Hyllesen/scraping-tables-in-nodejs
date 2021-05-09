@@ -1,10 +1,9 @@
 {
   "name": "scraping-tables-with-nodejs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "table_scraping.js"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +12,14 @@
     "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.0",
     "request-promise": "^4.2.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janooo/scraping-tables-in-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/janooo/scraping-tables-in-nodejs/issues"
+  },
+  "homepage": "https://github.com/janooo/scraping-tables-in-nodejs#readme",
+  "description": ""
 }
